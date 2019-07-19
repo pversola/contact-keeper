@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://user01:mflv[1234@cluster0-pu02y.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
